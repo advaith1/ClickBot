@@ -1,0 +1,13 @@
+{ping={arguments="",roles={},info="Makes the bot reply with 'pong'."},
+extlist={arguments="",roles={},info="Gives a link to Phi's extension list."},
+embed={arguments="Name, Maker, URL, Image URL.",roles={"Moderators", "Staff", "Moderator"},info="Inserts an entry into spotlight."},
+sendMsg={arguments="Message table",roles={"Moderators", "Staff", "Moderator"},info="Returns an embed in the channel mentioned."},
+voteban={arguments="<Multiple User Mentions> OR agree",roles={"Clickers"},info="Votes to ban a user on the server, 4 votes required. Entering agree instead of a mention will voteban all currently voted to ban people."},
+info={arguments="<Command name>",roles={},info="Provides information on a command."},
+help={arguments="",roles={},info="Provides a list of all Click Bot's commands."},
+mute={arguments="<User mentions>",roles={"Moderators", "Staff", "Moderator"},info="Mutes a user on the server."},
+mutechan={arguments="<User mentions> <Channel mentions>",roles={"Moderators", "Staff", "Moderator"},info="Mutes a user on specific channels."},
+unmutechan={arguments="<User mentions> <Channel mentions>",roles={"Moderators", "Staff", "Moderator"},info="Unmutes a user on specific channels."},
+unmute={arguments="<User mentions>",roles={"Moderators", "Staff", "Moderator"},info="Unmutes a user on the server."},
+example={arguments="<Example name to search for>",roles={},info="Gives a link to an Example file."},
+ueNivram={arguments="<Letter to update>",roles={"Moderators", "Staff", "Moderator"},info="Updates examples database from Nivram's example site."}}

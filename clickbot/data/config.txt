@@ -1,0 +1,1 @@
+{prefix=".",token="This won't be public >_>"}
